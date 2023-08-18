@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hiep @hiepluong2205
-- 👀 I’m interested in Software Testing, Project Management, Product Management
-- 🌱 I’m currently learning: Testing solutions for JavaScript/Java, Behavior-driven testing, Parenting
+- 👀 I’m interested in Software Quality, Project Management, and Zero-Knowledge Proof. 
+- 🌱 I’m currently learning: Testing solutions for JavaScript/Java, Behavior-driven testing, and Parenting. 
 - 💞️ I’m looking to collaborate on The economy of Software Testing
 
 <!---
